@@ -1,0 +1,17 @@
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.csproj.SuggestedBindingRedirects.cache
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.About.resources
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.Main.resources
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.Properties.Resources.resources
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.Setting.resources
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.csproj.GenerateResource.cache
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\RandomExtract.csproj.CoreCompileInputs.cache
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\bin\Debug\抽号点名器.exe.config
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\bin\Debug\抽号点名器.exe.manifest
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\bin\Debug\抽号点名器.application
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\bin\Debug\抽号点名器.exe
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\bin\Debug\抽号点名器.pdb
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\抽号点名器.TrustInfo.xml
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\抽号点名器.exe.manifest
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\抽号点名器.application
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\抽号点名器.exe
+C:\Users\q1162\Desktop\RandomExtract\RandomExtract\obj\Debug\抽号点名器.pdb
