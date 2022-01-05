@@ -157,9 +157,6 @@
   <data name="关于_悬停" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\关于_悬停.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="头像" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\img\头像.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\cat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -174,5 +171,8 @@
   </data>
   <data name="emoji2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\img\emoji2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\img\gg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

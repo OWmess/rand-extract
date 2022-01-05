@@ -203,9 +203,9 @@
     <Content Include="img\cat.jpg" />
     <Content Include="img\emoji1.jpg" />
     <Content Include="img\emoji2.jpg" />
+    <Content Include="img\gg.jpg" />
     <Content Include="img\school.png" />
     <Content Include="img\woman.jpg" />
-    <None Include="img\头像.png" />
     <None Include="img\关于_悬停.png" />
     <None Include="img\关于.png" />
   </ItemGroup>

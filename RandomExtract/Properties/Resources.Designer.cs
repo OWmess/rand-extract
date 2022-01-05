@@ -91,6 +91,16 @@ namespace RandomExtract.Properties {
         }
         
         /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap gg {
+            get {
+                object obj = ResourceManager.GetObject("gg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
         /// </summary>
         internal static System.Drawing.Icon icon {
@@ -176,16 +186,6 @@ namespace RandomExtract.Properties {
         internal static System.Drawing.Bitmap 删除_悬停 {
             get {
                 object obj = ResourceManager.GetObject("删除_悬停", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 头像 {
-            get {
-                object obj = ResourceManager.GetObject("头像", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

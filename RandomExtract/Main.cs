@@ -104,11 +104,11 @@ namespace RandomExtract
             int a = count % 4;
             if(a == 0)
             {
-                pictureBox1.Image = global::RandomExtract.Properties.Resources.cat;
+                pictureBox1.Image = global::RandomExtract.Properties.Resources.woman;
             }
             if (a == 1)
             {
-                pictureBox1.Image = global::RandomExtract.Properties.Resources.woman;
+                pictureBox1.Image = global::RandomExtract.Properties.Resources.gg;
             }
             if (a == 3)
             {
@@ -117,6 +117,10 @@ namespace RandomExtract
             if (a == 2)
             {
                 pictureBox1.Image = global::RandomExtract.Properties.Resources.emoji2;
+            }
+            if (a == 4)
+            {
+                pictureBox1.Image = global::RandomExtract.Properties.Resources.cat;
             }
         }
         #region 开始抽号
